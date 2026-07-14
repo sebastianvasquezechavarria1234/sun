@@ -1,17 +1,14 @@
 ![img](img/preview.jpg)
 
-<div align="center">
+<div>
 
-# ☀ Sun Shader
+#  Sun Shader
 
 ### Procedural star rendering in real-time WebGL
 
 A faithful port of [Panteleymonov's procedural sun shader](https://www.shadertoy.com/view/XlXGzS) from Shadertoy to a standalone HTML/WebGL application with Three.js orbit controls.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 </div>
 
@@ -159,5 +156,10 @@ of this software and associated documentation files.
 
 *Built with GPU mathematics and procedural generation.*
 *No textures were harmed in the making of this sun.*
+
+</br>
+
+Made with ❤️ by <a href="https://sebas-dev.vercel.app/" target="_blank" rel="noopener noreferrer">Sebastián V</a>
+
 
 </div>
