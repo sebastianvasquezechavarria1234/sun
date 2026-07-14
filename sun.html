@@ -4,13 +4,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Sun Shader</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀</text></svg>">
 <style>
 *{margin:0;padding:0}
 body{background:#000;overflow:hidden}
 canvas{display:block}
+.btns{position:fixed;bottom:20px;left:20px;display:flex;gap:10px;z-index:10}
+.btns a{display:inline-block;padding:8px 16px;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.25);border-radius:6px;color:#fff;font-family:system-ui,sans-serif;font-size:13px;text-decoration:none;backdrop-filter:blur(4px);transition:all .2s}
+.btns a:hover{background:rgba(255,255,255,0.25);border-color:rgba(255,255,255,0.5)}
 </style>
 </head>
 <body>
+<div class="btns">
+  <a href="https://github.com/sebastianvasquezechavarria1234/sun" target="_blank">Created by Sebastian V.</a>
+  <a href="https://sebas-dev.vercel.app/" target="_blank">View Source Code</a>
+</div>
 <script type="importmap">
 {
   "imports": {
