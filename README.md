@@ -1,4 +1,4 @@
-![img](preview)
+![img](img/preview.jpg)
 
 <div align="center">
 
